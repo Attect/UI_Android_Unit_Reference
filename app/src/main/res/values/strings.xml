@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UI Unit Reference</string>
+    <string name="dp_text">%ddp</string>
+</resources>
